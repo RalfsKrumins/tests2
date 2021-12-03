@@ -1,1 +1,7 @@
-
+.kaste {
+   margin-top: 100px
+  background: gray;
+  color: white;
+  width: 20%;
+  padding: 5px;
+  border: 1px solid black;
